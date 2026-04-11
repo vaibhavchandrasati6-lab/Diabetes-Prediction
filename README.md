@@ -10,6 +10,10 @@ This project uses a trained Support Vector Machine (SVM) model to predict diabet
 The goal is to demonstrate how machine learning models can be deployed as real-world web applications.
 
 ---
+## 🚀 Live Demo
+https://diabetes-prediction-fcmfve4zxyuj7jqjceriqn.streamlit.app/
+
+---
 
 ## 🧠 Machine Learning Model
 - Algorithm: Support Vector Machine (SVM)
