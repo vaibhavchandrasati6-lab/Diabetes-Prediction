@@ -43,17 +43,6 @@ The model takes the following inputs:
 - NumPy  
 - Pickle  
 
----
-
-## 📂 Project Structure
-project/
-│── app.py                  # Streamlit web app
-│── trained_model.sav       # Trained ML model
-│── requirements.txt        # Dependencies
-│── README.md               # Project documentation
-|__ Diabetes_analysis.ipynb # Python notebook
-|__ diabetes.csv            # Dataset
----
 
 
 
@@ -93,7 +82,6 @@ Steps:
 ---
 
 ## 👨‍💻 Author
-Your Name  
 
 Vaibhav Chandra Sati
 
