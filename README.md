@@ -4,6 +4,7 @@ A machine learning web application that predicts whether a person is diabetic or
 
 ---
 
+
 ## 📌 Project Overview
 This project uses a trained Support Vector Machine (SVM) model to predict diabetes based on user inputs such as glucose level, BMI, age, insulin, and other medical attributes.
 
