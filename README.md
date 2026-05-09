@@ -13,7 +13,6 @@ The goal is to demonstrate how machine learning models can be deployed as real-w
 ## 🚀 Live Demo
 https://diabetes-prediction-fcmfve4zxyuj7jqjceriqn.streamlit.app/
 
-
 ---
 
 ## 🧠 Machine Learning Model
